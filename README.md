@@ -3,13 +3,13 @@ Simple FiveM Connections Logger. Data will be sent to discord through webhook
 
 
 #### 📒 How To Use:
-> - download and extract `fivemconnectionlogger` folder to resources
-> - add in `server.cfg` file `start fivemconnectionlogger`
+> 1. download and extract `fivemconnectionlogger` folder to resources
+> 2. add in `server.cfg` file `start fivemconnectionlogger`
 
 
 #### 📋 What To Do
-> - [ ] Add a way for get the user ID
-> - [ ] Create PHP API for load this content to MySQL 
+- [ ] Add a way for get the user ID
+- [ ] Create PHP API for load this content to MySQL 
 
 
 
